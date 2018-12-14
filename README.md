@@ -1,8 +1,6 @@
 该项目是参照了KevinZhang的 https://github.com/SuperKevinZhang/wxBot， 从这基础上，由python2.0翻译成了python3.0，并加入相应功能。
 
-# wxBot [![star this repo](http://github-svg-buttons.herokuapp.com/star.svg?user=liuwons&repo=wxBot&style=flat&background=1081C1)](http://github.com/liuwons/wxBot) [![fork this repo](http://github-svg-buttons.herokuapp.com/fork.svg?user=liuwons&repo=wxBot&style=flat&background=1081C1)](http://github.com/liuwons/wxBot/fork) ![python](https://img.shields.io/badge/python-2.7-ff69b4.svg)
-
-**wxBot** 是用Python包装Web微信协议实现的微信机器人框架。
+**weixinBot** 是用Python包装Web微信协议实现的微信机器人框架。
 
 目前的消息支持情况:
 
